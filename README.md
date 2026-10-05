@@ -21,10 +21,10 @@ I’m particularly interested in the space where **software, design and product 
 ### Stack
 - Python, Java, SQL, C++, HTML, CSS, React, JavaScript and PHP
 
-**Technologies and Tools**
+### Technologies and Tools
 - Unreal Engine, Flutter, Firebase, PostgreSQL, Docker
 
-**Design**
+### Design
 - Photoshop, Figma, Milanote, Sony Vegas
 
 ## How to reach me
