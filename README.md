@@ -11,10 +11,10 @@ I’m particularly interested in the space where **software, design and product 
 
 ## A brief description of my pinned projects
 
-- 📈 SimpleUECharts: a reusable open-source C++ plugin for chart generation in Unreal Engine, using Unreal Engine and C++
-- 🧭 Way2Go: a platform featuring public transport schedules for the Porto district, as part of a 5-person team, using Flutter and Firebase
-- 📋 Taskly: a lightweight service marketplace where sers can publish services, discover and filter listings, contact service providers, simulate purchases, save favorites, and leave reviews, using PHP and SQLite
-- 🗺️ MazeGame: a game where the goal is to navigate mazes, avoid enemies, and complete all three levels, featuring different mechanics, using Java
+- 📈 **SimpleUECharts**: a reusable open-source C++ plugin for chart generation in Unreal Engine, using Unreal Engine and C++
+- 🧭 **Way2Go**: a platform featuring public transport schedules for the Porto district, as part of a 5-person team, using Flutter and Firebase
+- 📋 **Taskly**: a lightweight service marketplace where sers can publish services, discover and filter listings, contact service providers, simulate purchases, save favorites, and leave reviews, using PHP and SQLite
+- 🗺️ **MazeGame**: a game where the goal is to navigate mazes, avoid enemies, and complete all three levels, featuring different mechanics, using Java
 
 ## What am I currently working on?
 
